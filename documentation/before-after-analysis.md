@@ -1,55 +1,69 @@
 # Before-and-After Analysis
 
-**Student:** Syed Umar T  
-**Course:** B.Tech Information Technology — Second Year  
+**Student:** Venkatakrishnan  
 **Project:** AI Portfolio Website Content Creator
 
 ## 1. Purpose
 
-This analysis examines how AI-assisted editing can improve the clarity, organization, and readability of personal portfolio content while preserving factual accuracy.
+This analysis documents how AI-assisted suggestions can be reviewed and improved during portfolio development. The examples below illustrate the intended review process; replace them with the actual original and final content used in the project.
 
-The example below uses an original draft and a revised version. The revision must be checked against the student's actual background before publication.
+## 2. Content Improvement
 
-## 2. Original Draft
+### Before
+> I am an IT student. I want to learn coding and make projects.
 
-> I am an IT student. I like coding and AI. I want to learn more things and make projects.
+### AI-assisted revision
+> I am a second-year B.Tech Information Technology student developing my programming and web development skills through practical projects.
 
-This draft communicates the basic interests but provides limited information about the student's education, current learning, and goals.
+### Human review
+Confirm that the revised statement accurately describes the student's current studies and activities. Do not claim project experience unless it is true.
 
-## 3. Revised Version
+## 3. Design Improvement
 
-> I'm a second-year B.Tech Information Technology student interested in software development and artificial intelligence. I'm strengthening my programming skills and exploring how technology can help solve practical problems. My goal is to keep learning, build meaningful projects, and grow as a software developer.
+### Before
+- Basic page structure.
+- Limited visual hierarchy.
+- Sections may be difficult to distinguish.
 
-**Verification note:** Confirm that this revised version accurately reflects your current interests and goals before using it.
+### After
+- Clear navigation.
+- Consistent typography and spacing.
+- Distinct sections for skills, projects, goals, and contact information.
+- Responsive styling for different screen sizes.
 
-## 4. Comparison
+**Evidence:** Add screenshots of the actual website before and after the design changes, if available.
 
-| Criterion | Original draft | Revised version |
+## 4. Code Improvement
+
+### Before
+- Layout and styling may need refinement.
+- Links and interactive elements require verification.
+
+### After
+- Shared CSS styles provide a consistent appearance.
+- Responsive rules support smaller screens.
+- Navigation and contact behavior are implemented in the website.
+
+**Verification:** Confirm each improvement in the browser before describing it as successfully tested.
+
+## 5. AI Output Review
+
+| Review Area | What to Check | Actual Correction |
 |---|---|---|
-| Clarity | General and brief | Explains interests and goals |
-| Organization | Few connected ideas | Information follows a clearer sequence |
-| Specificity | Identifies an IT student | Includes degree level and areas of interest |
-| Readability | Understandable but basic | More suitable for a personal portfolio |
-| Factual accuracy | Requires personal confirmation | Education and interests must be verified |
-| Unsupported claims | Few claims | Avoids claiming professional expertise or achievements |
+| Accuracy | Unsupported claims or incorrect details | Record the correction made |
+| Clarity | Awkward or repetitive wording | Record the revised wording |
+| Personalization | Generic text | Add genuine personal information |
+| Code quality | Broken links or layout issues | Record the code change |
+| Accessibility | Contrast and descriptive labels | Record the improvement |
 
-## 5. Human Review and Corrections
+## 6. Lessons Learned
 
-The revised version should be reviewed before publication.
-
-- Confirm the education details.
-- Ensure the interests reflect the student's actual interests.
-- Avoid adding skills, qualifications, achievements, or completed projects without evidence.
-- Edit any wording that sounds exaggerated or does not represent the student's voice.
-
-## 6. Evaluation of AI Assistance
-
-AI-assisted editing can help organize ideas and suggest clearer wording. However, polished writing does not guarantee factual accuracy.
-
-The final version should be selected based on its usefulness, accuracy, and suitability for the intended audience—not simply because it sounds more professional.
-
-**Evidence to add:** Preserve the actual prompt used, the AI-generated response, the final edited version, and a brief record of corrections. If the sample above is not the actual output of a tested prompt, label it as an illustrative example rather than a measured AI result.
+- AI suggestions are starting points, not automatically correct answers.
+- Specific prompts can improve the relevance of generated content.
+- Personalization makes portfolio content more authentic.
+- Code changes should be tested in the browser.
+- Documentation should distinguish completed work from planned improvements.
 
 ## 7. Conclusion
 
-This comparison illustrates how a basic introduction can be developed into a more informative portfolio description. The final text remains subject to human review, and no improvement should be attributed to a specific AI tool without recording the actual prompt and output.
+AI-assisted revision can improve the clarity, consistency, and usability of a portfolio when combined with human review and testing. The final analysis should be supported by the student's actual drafts, code changes, screenshots, and test results.
